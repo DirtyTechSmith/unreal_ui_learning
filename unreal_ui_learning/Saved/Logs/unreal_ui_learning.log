@@ -4115,3 +4115,135 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.09-08.58.08:433][257]LogD3D12RHI: Creating RTPSO with 95 shaders (94 cached, 1 new) took 51.23 ms. Compile time 45.22 ms, link time 5.84 ms.
 [2020.02.09-08.58.08:492][259]LogD3D12RHI: Creating RTPSO with 96 shaders (95 cached, 1 new) took 48.67 ms. Compile time 45.27 ms, link time 3.28 ms.
 [2020.02.09-08.58.08:592][263]LogD3D12RHI: Creating RTPSO with 97 shaders (96 cached, 1 new) took 52.39 ms. Compile time 48.64 ms, link time 3.65 ms.
+[2020.02.09-09.03.06:147][ 46]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to ../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/Geometry/Meshes/1M_Cube.uasset
+[2020.02.09-09.03.06:148][ 46]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube_Chamfer.uasset to ../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2020.02.09-09.03.06:148][ 46]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to ../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/Geometry/Meshes/CubeMaterial.uasset
+[2020.02.09-09.03.06:148][ 46]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/TemplateFloor.uasset to ../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/Geometry/Meshes/TemplateFloor.uasset
+[2020.02.09-09.03.06:153][ 46]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.09-09.03.06:165][ 46]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/FP_FirstPersonBP.upack)
+[2020.02.09-09.03.06:190][ 46]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.09-09.03.06:197][ 46]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/FirstPersonOverview.uasset" to "../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/FirstPersonOverview.uasset"
+[2020.02.09-09.03.06:205][ 46]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" to "../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset"
+[2020.02.09-09.03.06:212][ 46]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" to "../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset"
+[2020.02.09-09.03.06:220][ 46]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" to "../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset"
+[2020.02.09-09.03.06:240][ 46]LogPackFactory: Copied "../../../Templates/FP_FirstPersonBP/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" to "../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+[2020.02.09-09.03.06:284][ 46]LogSavePackage: Moving '../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Saved/FirstPersonOverviewABA638C74F315F159C7E5B86DA568AEE.tmp' to '../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/FirstPersonOverview.uasset'
+[2020.02.09-09.03.06:299][ 46]AssetCheck: New page: Asset Save: FirstPersonOverview
+[2020.02.09-09.03.06:299][ 46]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview
+[2020.02.09-09.03.18:883][390]LogMaterial: Display: Missing cached shader map for material BaseMaterial, compiling. 
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 69
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 65
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 61
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 57
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 53
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 49
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 45
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 41
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 37
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 33
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 29
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 25
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 21
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 17
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 13
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 9
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 5
+[2020.02.09-09.03.18:918][390]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 1
+[2020.02.09-09.03.18:918][390]LogMaterial: Display: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2020.02.09-09.03.18:943][390]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2020.02.09-09.03.18:993][390]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.02.09-09.03.19:048][390]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 306
+[2020.02.09-09.03.19:048][390]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 296
+[2020.02.09-09.03.19:061][390]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.09-09.03.19:069][390]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.09-09.03.19:109][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.09-09.03.19:111][390]Cmd: MAP LOAD FILE="../../../../../../GitHub/Unreal_UMG/unreal_ui_learning/unreal_ui_learning/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.09-09.03.19:111][390]LightingResults: New page: Lighting Build
+[2020.02.09-09.03.19:111][390]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.02.09-09.03.19:112][390]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.09-09.03.19:112][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.09-09.03.19:112][390]MapCheck: New page: Map Check
+[2020.02.09-09.03.19:112][390]LightingResults: New page: Lighting Build
+[2020.02.09-09.03.19:150][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.02.09-09.03.19:318][390]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.09-09.03.19:352][390]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 286
+[2020.02.09-09.03.19:358][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.02.09-09.03.19:394][390]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.09-09.03.19:394][390]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.241ms to complete.
+[2020.02.09-09.03.19:394][390]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.285
+[2020.02.09-09.03.20:087][446]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.02.09-09.03.20:298][465]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 276
+[2020.02.09-09.03.20:381][474]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 266
+[2020.02.09-09.03.20:515][481]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 256
+[2020.02.09-09.03.20:555][483]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 246
+[2020.02.09-09.03.20:639][487]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 236
+[2020.02.09-09.03.20:660][487]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 226
+[2020.02.09-09.03.20:660][487]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 216
+[2020.02.09-09.03.20:688][488]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 206
+[2020.02.09-09.03.20:688][488]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 196
+[2020.02.09-09.03.20:715][489]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 186
+[2020.02.09-09.03.20:828][493]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 176
+[2020.02.09-09.03.20:864][494]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 167
+[2020.02.09-09.03.20:893][495]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 158
+[2020.02.09-09.03.21:070][511]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 150
+[2020.02.09-09.03.21:179][522]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 142
+[2020.02.09-09.03.21:299][535]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 134
+[2020.02.09-09.03.21:337][539]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 127
+[2020.02.09-09.03.21:460][542]LogD3D12RHI: Creating RTPSO with 98 shaders (97 cached, 1 new) took 52.93 ms. Compile time 45.59 ms, link time 7.11 ms.
+[2020.02.09-09.03.22:115][602]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 120
+[2020.02.09-09.03.22:475][634]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 113
+[2020.02.09-09.03.22:740][657]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 107
+[2020.02.09-09.03.22:783][661]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 101
+[2020.02.09-09.03.22:963][677]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 95
+[2020.02.09-09.03.23:050][685]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 90
+[2020.02.09-09.03.23:084][687]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 85
+[2020.02.09-09.03.23:332][712]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 80
+[2020.02.09-09.03.23:432][721]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 75
+[2020.02.09-09.03.23:484][725]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 71
+[2020.02.09-09.03.23:638][738]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 67
+[2020.02.09-09.03.23:658][740]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 63
+[2020.02.09-09.03.23:716][744]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 59
+[2020.02.09-09.03.23:770][749]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 56
+[2020.02.09-09.03.23:883][759]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 53
+[2020.02.09-09.03.24:140][780]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 50
+[2020.02.09-09.03.24:180][783]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 47
+[2020.02.09-09.03.24:224][788]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 44
+[2020.02.09-09.03.24:290][793]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 41
+[2020.02.09-09.03.24:299][794]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 38
+[2020.02.09-09.03.24:306][795]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 36
+[2020.02.09-09.03.24:361][800]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 34
+[2020.02.09-09.03.24:373][801]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 32
+[2020.02.09-09.03.24:451][808]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 30
+[2020.02.09-09.03.24:474][810]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 28
+[2020.02.09-09.03.24:686][827]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 26
+[2020.02.09-09.03.24:686][827]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 24
+[2020.02.09-09.03.24:740][832]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 22
+[2020.02.09-09.03.24:771][835]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 20
+[2020.02.09-09.03.24:807][838]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 18
+[2020.02.09-09.03.24:845][841]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 17
+[2020.02.09-09.03.24:906][845]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 16
+[2020.02.09-09.03.24:999][853]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 15
+[2020.02.09-09.03.25:009][854]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 14
+[2020.02.09-09.03.25:030][856]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 13
+[2020.02.09-09.03.25:032][856]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 12
+[2020.02.09-09.03.25:109][863]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 11
+[2020.02.09-09.03.25:139][866]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 10
+[2020.02.09-09.03.25:184][870]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 9
+[2020.02.09-09.03.25:241][875]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 8
+[2020.02.09-09.03.25:271][876]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 7
+[2020.02.09-09.03.25:272][876]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 6
+[2020.02.09-09.03.25:300][878]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 5
+[2020.02.09-09.03.25:317][878]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 4
+[2020.02.09-09.03.25:332][878]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 3
+[2020.02.09-09.03.25:343][878]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 2
+[2020.02.09-09.03.25:343][878]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 1
+[2020.02.09-09.03.25:501][883]LogD3D12RHI: Creating RTPSO with 99 shaders (98 cached, 1 new) took 71.21 ms. Compile time 64.07 ms, link time 6.85 ms.
+[2020.02.09-09.03.25:776][900]LogD3D12RHI: Creating RTPSO with 100 shaders (99 cached, 1 new) took 39.37 ms. Compile time 35.59 ms, link time 3.67 ms.
+[2020.02.09-09.06.37:315][253]LogSlate: Window 'Source Control Login' being destroyed
+[2020.02.09-09.06.42:981][778]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.02.09-09.06.50:085][778]LogSlate: Window 'Submit Files' being destroyed
+[2020.02.09-09.06.51:122][778]LogSourceControl: commit successful: [master 051a681] s
+[2020.02.09-09.06.51:189][778]SourceControl: [master 051a681] s
+[2020.02.09-09.06.51:189][778]SourceControl:  2 files changed, 46 insertions(+), 37 deletions(-)
+[2020.02.09-09.06.51:189][778]SourceControl:  create mode 100644 unreal_ui_learning/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2020.02.09-09.06.51:196][778]SourceControl: Commited [master 051a681] s.
